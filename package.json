@@ -24,7 +24,7 @@
     "csrf": "^3.1.0",
     "dotenv-cli": "^5.0.0",
     "dotenv-safe": "^8.2.0",
-    "graphql": "^16.3.0",
+    "graphql": "^16.8.1",
     "js-cookie": "^3.0.1",
     "leaflet": "^1.7.1",
     "ley": "^0.7.1",
